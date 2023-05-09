@@ -1,6 +1,6 @@
 # NATO Phonetic Alphabet Encryptor
 ## Overview
-The program `"NATO Phonetic Alphabet Encryptor"` offers a range of features that enable users to encrypt and decrypt messages utilizing the NATO phonetic alphabet. In addition to this, it also presents an encryption algorithm that can be utilized for securing images. Through this program, it is possible to safeguard messages and images with the utmost level of security. Its versatile nature makes it a valuable tool for someone seeking reliable and straightforward encryption .
+The program `"NATO Phonetic Alphabet Encryptor"` offers a range of features that enable users to encrypt and decrypt messages utilizing the NATO phonetic alphabet. In addition to this, it also presents an encryption algorithm that can be utilized for securing images. Through this program, it is possible to safeguard messages and images with the utmost level of security. Its versatile nature makes it a valuable tool for someone seeking reliable and straightforward encryption options.
 
 ## Files
 The program consists of the following files:
